@@ -1,14 +1,13 @@
 # 📄 IDEIA DO PROJETO - CP2 - ADVANCED BUSINESS DEVELOPMENT WITH .NET
 
-Este documento contém uma descrição clara e objetiva da proposta do grupo para o projeto de CP2, baseado no desafio da Mottu.
+Rastreamento de motos
 
 
 👥 INTEGRANTES DO GRUPO
 ===========================
 
-- RM12345 - Nome Completo
-- RM12346 - Nome Completo
-- RM12347 - Nome Completo
+- RM558042 - Thomas Rodrigues Ribeiro Silva
+- RM554727  - João Victor Rocha Cândido
 
 
 📘 TÍTULO DO PROJETO
