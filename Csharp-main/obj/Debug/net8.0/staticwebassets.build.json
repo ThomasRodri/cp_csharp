@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jk8gLlzUY7fpu0wRjNPqoE1HdungBWyDlGZynzrXDfU=",
+  "Source": "challenge_dotnet",
+  "BasePath": "_content/challenge_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
